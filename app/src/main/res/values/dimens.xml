@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sizeTextTitle">35dp</dimen>
+    <dimen name="sizeText">25dp</dimen>
+    <dimen name="EditTextsize">200dp</dimen>
+
+    <dimen name="marginTop">25dp</dimen>
+    <dimen name="marginEnd">25dp</dimen>
+    <dimen name="marginBottom">25dp</dimen>
+
+</resources>

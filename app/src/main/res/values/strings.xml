@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PracticaAndroid</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+    <string name="usuario">User</string>
+    <string name="Password">Password</string>
+    <string name="RepeatPassword">Repeat Password</string>
+    <string-array name="libros">
+        <item>hobbit</item>
+        <item>harry potter</item>
+        <item>kill la kill</item>
+        <item>One punch Man</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
